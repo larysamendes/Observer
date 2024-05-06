@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Observer.iml" filepath="$PROJECT_DIR$/.idea/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoboCuriosity/RoboCuriosity.iml" filepath="$PROJECT_DIR$/RoboCuriosity/RoboCuriosity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SamartHome/SamartHome.iml" filepath="$PROJECT_DIR$/SamartHome/SamartHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Votacao/src.iml" filepath="$PROJECT_DIR$/Votacao/src.iml" />
+    </modules>
+  </component>
+</project>
