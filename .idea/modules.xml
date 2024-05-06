@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Observer.iml" filepath="$PROJECT_DIR$/.idea/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoboCuriosity/RoboCuriosity.iml" filepath="$PROJECT_DIR$/RoboCuriosity/RoboCuriosity.iml" />
       <module fileurl="file://$PROJECT_DIR$/SamartHome/SamartHome.iml" filepath="$PROJECT_DIR$/SamartHome/SamartHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telefone_event/Telefone_event.iml" filepath="$PROJECT_DIR$/Telefone_event/Telefone_event.iml" />
       <module fileurl="file://$PROJECT_DIR$/Votacao/src.iml" filepath="$PROJECT_DIR$/Votacao/src.iml" />
     </modules>
   </component>
